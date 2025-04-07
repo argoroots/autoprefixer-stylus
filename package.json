@@ -1,21 +1,21 @@
 {
   "name": "autoprefixer-stylus",
   "description": "autoprefixer for stylus",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Jeff Escalante",
   "dependencies": {
-    "autoprefixer": "10.4.16",
+    "autoprefixer": "10.4.21",
     "multi-stage-sourcemap": "0.3.1",
-    "postcss": "8.4.32"
+    "postcss": "8.5.3"
   },
   "devDependencies": {
-    "chai": "4.3.10",
+    "chai": "4.5.0",
     "coveralls": "3.1.1",
     "css-parse": "2.0.0",
-    "mocha": "10.2.0",
-    "nyc": "15.1.0",
-    "rimraf": "5.0.5",
-    "stylus": "0.62.0"
+    "mocha": "11.1.0",
+    "nyc": "17.1.0",
+    "rimraf": "6.0.1",
+    "stylus": "0.64.0"
   },
   "license": "MIT",
   "main": "index.js",
